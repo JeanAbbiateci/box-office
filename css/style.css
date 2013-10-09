@@ -1,0 +1,179 @@
+#sidebar {
+
+position:absolute;
+left:10px;
+height:600px;
+width:200px;
+background-color:transparent;
+z-index:-100000000000;
+font-family: Georgia;
+font-size: 12px;
+}
+
+
+#image {
+position:absolute;
+top:20px;
+left:0px;
+}
+
+
+#view_selection {
+  margin-top: 0px;
+  list-style: none;
+border-top: 1px solid #ddd;
+border-bottom: 1px solid #ddd;
+}
+
+
+a, a:visited, a:active {
+  color: #a50000;
+}
+
+a {
+color:#a50000;
+}
+
+h4 {
+color:#a50000;
+
+}
+
+
+#text {
+position:absolute;
+top:110px;
+left:0px;
+}
+
+
+
+
+#sidebar h2 {
+font-size: 19px;
+}
+
+#vis {
+position:absolute;
+left:225px;
+top:0px;
+width: 695px;
+height: 660px;
+clear: both;
+margin-bottom: 10px;
+font-family: Georgia;
+}
+
+footer {
+  text-align: center;
+}
+
+#view_selection {
+  margin-top: 0px;
+  list-style: none;
+border-top: 1px solid #ddd;
+border-bottom: 1px solid #ddd;
+}
+
+
+
+.years {
+  font-size: 18px;
+  fill: #a50000;
+font-family: Georgia;
+}
+
+
+.payss {
+  font-size: 18px;
+  fill: #a50000;
+font-family: Georgia;
+
+}
+
+.pressesimps {
+  font-size: 18px;
+  fill: #a50000;
+font-family: Georgia;
+}
+
+.spectsimps {
+  font-size: 18px;
+  fill: #a50000;
+font-family: Georgia;
+}
+
+.tooltip {
+	position: absolute;
+	top: 100px;
+	left: 100px;
+  -moz-border-radius:3px;
+	border-radius: 3px;
+  border: 2px solid #DDD;
+	/* background: #222222; */
+  background: #fff;
+	opacity: 1;
+	/* color: #eeeeee; */
+  color: #000;
+	padding: 10px;
+	width: 300px;
+	font-size: 15px;
+	z-index: 10;
+font-family: Georgia;
+}
+
+.tooltip .title {
+	font-size: 20px;
+}
+
+.tooltip .name {
+  font-weight:bold;
+}
+
+button,
+a.btn,
+a.btn:visited,
+a.button,
+a.button:visited,
+input[type="submit"],
+input[type="reset"],
+input[type="button"]{
+position:relative;
+top:0;
+left:0;
+vertical-align: middle;
+margin:0;
+padding:10px 10px 10px 10px;
+line-height:100%;
+-moz-border-radius:5px;
+-webkit-border-radius:5px;
+border-radius:5px;
+cursor: pointer;
+width:auto;
+overflow:visible;
+font-weight:normal;
+font-size:14px;
+font-style:bold;
+color:#fff;
+text-decoration:none;
+vertical-align: middle;
+box-sizing: border-box;
+display:inline-block;
+*display:inline;/*IE ONLY*/
+zoom:1;
+background:#636363; /* Old browsers */
+color:
+}
+
+
+	button:hover,
+	a.btn:hover,
+	a.button:hover,
+	input[type="submit"]:hover,
+	input[type="reset"]:hover,
+	input[type="button"]:hover{
+
+	background: #BDBDBD; /* Old browsers */
+	}
+
+
